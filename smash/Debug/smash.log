@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\monst\source\repos\smash\smash\pos.h(127,1): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\monst\source\repos\smash\smash\pos.h(128,1): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\monst\source\repos\smash\smash\pos.h(129,1): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\monst\source\repos\smash\smash\pos.h(130,1): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\monst\source\repos\smash\smash\pos.h(189,1): warning C4554: '|': 演算子の優先順位に問題があります。かっこを使用して優先順位を明確にしてください
+C:\Users\monst\source\repos\smash\smash\square.h(125,1): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\monst\source\repos\smash\smash\square.h(126,1): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\monst\source\repos\smash\smash\square.h(127,1): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\monst\source\repos\smash\smash\square.h(128,1): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\monst\source\repos\smash\smash\square.h(186,1): warning C4554: '|': 演算子の優先順位に問題があります。かっこを使用して優先順位を明確にしてください
+  smash.vcxproj -> C:\Users\monst\source\repos\smash\Debug\smash.exe
